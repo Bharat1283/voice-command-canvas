@@ -1,0 +1,27 @@
+body
+{
+	text-align: center;
+	background-image: url(https://media.istockphoto.com/vectors/voice-id-security-illustration-of-profile-head-with-matching-profile-vector-id1129100855?k=20&m=1129100855&s=612x612&w=0&h=Rshzixxtmq_y3TRhDNb7Je0uyq7MaN7Z0iB3-_J49Us=);
+    background-repeat: no-repeat;
+	background-size: cover;
+
+}
+span
+{
+	font-size: 18px;
+	color: rgb(0, 162, 255);
+}
+canvas
+{
+	background: cyan;
+	border-radius: 18px;
+	border-style: double;
+	border-width: 10px;
+	border-color: darkblue;
+}
+
+h3{
+	background-color: black;
+	color: aqua;
+	width: 400px;
+}
